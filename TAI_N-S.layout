@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="degre2.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="degre3.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="4230" topLine="0" />
+	</File>
+	<File name="degre4.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="2743" topLine="74" />
+	</File>
+	<File name="degre5.cpp" open="1" top="1" tabpos="5">
+		<Cursor position="362" topLine="82" />
+	</File>
+	<File name="fonctions.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="659" topLine="0" />
+	</File>
+	<File name="fonctions.h" open="0" top="0" tabpos="3">
+		<Cursor position="327" topLine="8" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="923" topLine="18" />
+	</File>
+</CodeBlocks_layout_file>

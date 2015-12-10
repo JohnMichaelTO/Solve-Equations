@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1323744102 source:j:\efrei\tai\nombres_et_structures\tai_n-s\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fonctions.h"
+
+1323784430 source:e:\efrei\tai\nombres_et_structures\tai_n-s\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fonctions.h"
+
+1323712022 source:f:\efrei\tai\nombres_et_structures\tai_n-s\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1323744340 j:\efrei\tai\nombres_et_structures\tai_n-s\fonctions.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1323743644 source:j:\efrei\tai\nombres_et_structures\tai_n-s\fonctions.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1323787200 source:e:\efrei\tai\nombres_et_structures\tai_n-s\degre3.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fonctions.h"
+
+1323787502 e:\efrei\tai\nombres_et_structures\tai_n-s\fonctions.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1323744588 source:e:\efrei\tai\nombres_et_structures\tai_n-s\degre4.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fonctions.h"
+
+1323744588 source:e:\efrei\tai\nombres_et_structures\tai_n-s\degre5.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fonctions.h"
+
+1323787200 source:e:\efrei\tai\nombres_et_structures\tai_n-s\fonctions.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1323744584 source:e:\efrei\tai\nombres_et_structures\tai_n-s\degre2.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fonctions.h"
+
+1323787538 source:h:\efrei\l1\semestre_1\tai\nombres_et_structures\tai_n-s\degre3.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fonctions.h"
+
+1323787502 h:\efrei\l1\semestre_1\tai\nombres_et_structures\tai_n-s\fonctions.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1323787520 source:h:\efrei\l1\semestre_1\tai\nombres_et_structures\tai_n-s\degre4.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fonctions.h"
+
+1323744588 source:h:\efrei\l1\semestre_1\tai\nombres_et_structures\tai_n-s\degre5.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fonctions.h"
+
+1323787476 source:h:\efrei\l1\semestre_1\tai\nombres_et_structures\tai_n-s\fonctions.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1323787494 source:h:\efrei\l1\semestre_1\tai\nombres_et_structures\tai_n-s\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fonctions.h"
+
+1323744584 source:h:\efrei\l1\semestre_1\tai\nombres_et_structures\tai_n-s\degre2.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fonctions.h"
+
+1323787538 source:k:\efrei\l1\semestre_1\tai\nombres_et_structures\tai_n-s\degre3.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fonctions.h"
+
+1323787502 k:\efrei\l1\semestre_1\tai\nombres_et_structures\tai_n-s\fonctions.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1323787520 source:k:\efrei\l1\semestre_1\tai\nombres_et_structures\tai_n-s\degre4.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fonctions.h"
+
+1323744588 source:k:\efrei\l1\semestre_1\tai\nombres_et_structures\tai_n-s\degre5.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fonctions.h"
+
+1323787476 source:k:\efrei\l1\semestre_1\tai\nombres_et_structures\tai_n-s\fonctions.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1323787494 source:k:\efrei\l1\semestre_1\tai\nombres_et_structures\tai_n-s\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fonctions.h"
+
+1323744584 source:k:\efrei\l1\semestre_1\tai\nombres_et_structures\tai_n-s\degre2.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fonctions.h"
+
